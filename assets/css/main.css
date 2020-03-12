@@ -79,7 +79,7 @@ ul.asterisk li:before {
 
 /** top */
 
-#top .click {text-align:center;width:100%; margin-top:20px; font-size:0.5em; }
+#top .click {text-align:center;width:100%; margin-top:50px;}
 #top .click div {position:relative; top:-20px; font-size:0.8em; }
 #top table {font-size:1.2em; margin-bottom:10px;  }
 #top table td {text-align:left; padding-bottom:15px; color:#000000 !important; }
