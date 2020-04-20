@@ -1,7 +1,14 @@
 
 # ASME HACKATHON on Computers and Information in Engineering (ASME IDETC/CIE 2020)
 
-Participants can find relevant information the [official ASME website](https://event.asme.org/IDETC-CIE/Program/Hackathon) (https://event.asme.org/IDETC-CIE/Program/Hackathon) and [GitHub website](https://asmehackathon2020.github.io/) for this repository . 
+Participants can find relevant information the [official ASME website](https://event.asme.org/IDETC-CIE/Program/Hackathon) (https://event.asme.org/IDETC-CIE/Program/Hackathon) and [GitHub website](https://asmehackathon2020.github.io/) for this repository. 
+
+# Awards
+
+* First Place: $2000
+* Second Place: $1000
+* Third Place: $500
+
 
 # Organizers/Mentors
 
