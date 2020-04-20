@@ -17,9 +17,6 @@ Participants can find relevant information the [official ASME website](https://e
 
 6. Dr. Anh Tran (Sandia National Laboratories) -- Postdoctoral Appointee
 
-# Datasets
-
-
 # Important dates
 
 * May 21st, 2020: Deadline for hackathon sign-up
@@ -37,9 +34,9 @@ Big Data is defined as “large volumes of high velocity, complex and variable d
 
 The ASME-CIE Hackathon attempts to provide an open mechanism for researchers to explore new statistical and machine-learning techniques appropriate for the use of unstructured text, images, audio etc. in design, manufacturing and systems engineering, and on the other hand, to develop new educational pathways to train the next generation of data-skilled mechanical engineers. The participants will have the opportunity to learn and experience various data visualization, data mining, and machine learning methods to develop automated processes for:
 
-    * Identification of patterns within the unstructured data that are predictive of valuable or negative attributes.
-    * Use of valuable extracted content to improve predictive models.
-    * Removal or correction of negative content associated with errors, bias, or privacy.
+* Identification of patterns within the unstructured data that are predictive of valuable or negative attributes.
+* Use of valuable extracted content to improve predictive models.
+* Removal or correction of negative content associated with errors, bias, or privacy.
 
 Hackathon problems can be found in [this PDF](https://event.asme.org/Events/media/library/resources/idetc-cie/IDETC-Hackathon-Problems.pdf).
 
@@ -47,17 +44,17 @@ Hackathon problems can be found in [this PDF](https://event.asme.org/Events/medi
 
 Hackathon is a teamwork. You do not need to have all the skills – that’s what TEAMWORK is for! Please join us if you have:
 
-	* Creative or innovative ideas
-	* Business or marketing talents
-	* Data science or statistics concepts
-	* Domain knowledge and critical thinking
-	* Computational linguistics skills
-	* Programming skills
+* Creative or innovative ideas
+* Business or marketing talents
+* Data science or statistics concepts
+* Domain knowledge and critical thinking
+* Computational linguistics skills
+* Programming skills
 
  
 # Hackathon Team and Presentation
 
-	* All participants must be registered via here. Register the event and attend the Hackathon physically. Each participant brings his/her own laptop with all the necessary computing tools. Everyone will be placed in a team up to three members. You may form your own team onsite. All implementation must be based on the original work.
-    * Each Hackathon team will continue their own meetings and hacking exercises during the two days between 4pm 08/15/20 and 4pm 08/16/20.
-    * Each team needs to present their teamwork including the technical approach and the results.
+* All participants must be registered via here. Register the event and attend the Hackathon physically. Each participant brings his/her own laptop with all the necessary computing tools. Everyone will be placed in a team up to three members. You may form your own team onsite. All implementation must be based on the original work.
+* Each Hackathon team will continue their own meetings and hacking exercises during the two days between 4pm 08/15/20 and 4pm 08/16/20.
+* Each team needs to present their teamwork including the technical approach and the results.
 
