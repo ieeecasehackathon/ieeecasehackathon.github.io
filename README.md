@@ -108,11 +108,11 @@ The goal of this hackathon subtopic is to promote the use of data science in pow
 
 #### Challenges
 
-* AM in-process data registration – how to align the multi-modal in-process monitoring data in time and space to allow for fusion and correlation (Ref:).
+* AM in-process data registration – how to align the multi-modal in-process monitoring data in time and space to allow for fusion and correlation (Ref: Argyriou 2015).
 * What kind of features to be extracted from the multi-level, multi scale AM in-process monitoring data, e.g., build command, chamber monitoring trended data, co-axial images and layerwise images etc. 
-* What kind of relationship between build commands and the in-process measurements such as coaxial melt pool characteristics/layerwise surface images. (Ref: Zhuo, 2019a, 2019b)
+* What kind of relationship between build commands and the in-process measurements such as coaxial melt pool characteristics/layerwise surface images. (Ref: Yang 2019a, 2019b)
 * How to fusion the data from the multi-modal in-process measurements (Ref: A Review of Data Fusion Techniques, The Scientific World Journal Volume 2013, Article ID 704504)
-* How to develop real-time control or layerwise control strategy from the data for the PBF AM processes?(Ref: Mahesh Mani 2015, Measurement Science Needs for Real-time Control of Additive Manufacturing PowderBed Fusion Processes)
+* How to develop real-time control or layerwise control strategy from the data for the PBF AM processes? (Ref: Mahesh Mani 2015, Measurement Science Needs for Real-time Control of Additive Manufacturing PowderBed Fusion Processes)
 
 #### Datasets
 
