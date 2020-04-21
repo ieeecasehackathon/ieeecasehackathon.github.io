@@ -5,21 +5,21 @@
 *Hilton, St. Louis, MO, USA*
 *August 15-16, 2020*
 
-In conjunction with ASME IDETC/CIE 2020
+<center>In conjunction with ASME IDETC/CIE 2020</center>
 
-Sponsored by
+<center>Sponsored by</center>
 
-ASME Computers & Information in Engineering Division (CIE) &
+<center>ASME Computers & Information in Engineering Division (CIE) &</center>
 
-ASME Technical Events and Content (TEC) Sector Council
+<center>ASME Technical Events and Content (TEC) Sector Council</center>
 
-ASME Manufacturing Engineering Division (MED) Centennial Celebration Endorsed Event
+<center>ASME Manufacturing Engineering Division (MED) Centennial Celebration </center>Endorsed Event
 
-[Click to Register for the Hackathon](https://event.asme.org/IDETC-CIE/Program/Hackathon)
+<center>[Click to Register for the Hackathon](https://event.asme.org/</center>IDETC-CIE/Program/Hackathon)
 
 ($25 for Hackathon event only; [Travel Awards Available](https://event.asme.org/Events/media/library/resources/idetc-cie/IDETC2020-TravelAwardApplicationProcess.pdf).)
  
-Meeting Location: Room Name, Hilton, St. Louis, MO
+<center>Meeting Location: Room Name, Hilton, St. Louis, MO</center>
 
 
 
