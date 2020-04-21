@@ -81,12 +81,12 @@ The objective of this problem is to forecast future usage patterns for five comm
 #### Challenges
 Challenges
 This data and use case present several challenges. These include:
-* Is it feasible to construct a data-driven digital twin for forecasting? (Kunath et al., 2018) 
-* What is the best approach to identifying appropriate signals in this data with which to make predictions? (Long et al., 2019)
-* The data provided here represents only the technical side of the system, but is heavily impacted by the human use of the learning factory as well. (Smith et al., 2013).
-* What is an appropriate threshold on measured sensor values to indicate active use of the machine? (Yan et al., 2017)
+* Is it feasible to construct a data-driven digital twin for forecasting? ([Kunath et al., 2018](#RefsProblem1)) 
+* What is the best approach to identifying appropriate signals in this data with which to make predictions? ([Long et al., 2019](#RefsProblem1))
+* The data provided here represents only the technical side of the system, but is heavily impacted by the human use of the learning factory as well. ([Smith et al., 2013](#RefsProblem1)).
+* What is an appropriate threshold on measured sensor values to indicate active use of the machine? ([Yan et al., 2017](#RefsProblem1))
 
-#### References
+#### <a name="RefsProblem1"></a> References
 
 1. Kunath, M., & Winkler, H. (2018). Integrating the Digital Twin of the manufacturing system into a decision support system for improving the order management process. Procedia CIRP, 72, 225-231.
 2. Long, Wen, Zhichen Lu, and Lingxiao Cui. "Deep learning-based feature engineering for stock price movement prediction." Knowledge-Based Systems 164 (2019): 163-173.
@@ -108,11 +108,11 @@ The goal of this hackathon subtopic is to promote the use of data science in pow
 
 #### Challenges
 
-* AM in-process data registration – how to align the multi-modal in-process monitoring data in time and space to allow for fusion and correlation (Ref: Argyriou 2015).
+* AM in-process data registration – how to align the multi-modal in-process monitoring data in time and space to allow for fusion and correlation ([Argyriou et al. 2015](#RefsProblem2)).
 * What kind of features to be extracted from the multi-level, multi scale AM in-process monitoring data, e.g., build command, chamber monitoring trended data, co-axial images and layerwise images etc. 
-* What kind of relationship between build commands and the in-process measurements such as coaxial melt pool characteristics/layerwise surface images. (Ref: Yang 2019a, 2019b)
+* What kind of relationship between build commands and the in-process measurements such as coaxial melt pool characteristics/layerwise surface images. ([Yang et al. 2019a](#RefsProblem2), [Yang et al. 2019b](#RefsProblem2))
 * How to fusion the data from the multi-modal in-process measurements ([Castanedo 2013](#RefsProblem2))
-* How to develop real-time control or layerwise control strategy from the data for the PBF AM processes? (Ref: Mahesh Mani 2015, Measurement Science Needs for Real-time Control of Additive Manufacturing PowderBed Fusion Processes)
+* How to develop real-time control or layerwise control strategy from the data for the PBF AM processes? ([Mani 2015](#RefsProblem2))
 
 #### Datasets
 
