@@ -120,6 +120,8 @@ This data and use case present several challenges. These include:
 
 #### <a name="RefsProblem1"></a> References
 
+Participants can also find pdfs of references [here](https://github.com/ASMEHackathon2020/asmehackathon2020.github.io/tree/master/references/problem-1).
+
 1. Kunath, M., & Winkler, H. (2018). Integrating the Digital Twin of the manufacturing system into a decision support system for improving the order management process. Procedia CIRP, 72, 225-231.
 2. Long, Wen, Zhichen Lu, and Lingxiao Cui. "Deep learning-based feature engineering for stock price movement prediction." Knowledge-Based Systems 164 (2019): 163-173.
 3. Smith, A., Hielscher, S., Dickel, S., Soderberg, J., & van Oost, E. (2013). Grassroots digital fabrication and makerspaces: Reconfiguring, relocating and recalibrating innovation?. University of Sussex, SPRU Working Paper SWPS, 2.
@@ -161,6 +163,8 @@ Data sets and data formats used for the study include:
 6. Layerwise images, 2 per layer, before and after exposure settings (bmp/PNG)
 
 #### <a name="RefsProblem2"></a> References
+
+Participants can also find pdfs of references [here](https://github.com/ASMEHackathon2020/asmehackathon2020.github.io/tree/master/references/problem-2).
 
 1. Vasileios Argyriou, Jesús Martínez Del Rincón, Barbara Villarini, Alexis Roche, “Image, Video & 3d Data Registration”, John Wiley & Sons, 2015.
 2. Guyon, I., Gunn, S., Nikravesh, M., Zadeh, L.A. (Eds.), Feature Extraction-Foundations and Applications,  Springer, 2006.
