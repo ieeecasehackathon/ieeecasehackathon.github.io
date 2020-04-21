@@ -17,7 +17,7 @@ ASME Manufacturing Engineering Division (MED) Centennial Celebration Endorsed Ev
 
 [Click to Register for the Hackathon](https://event.asme.org/IDETC-CIE/Program/Hackathon)
 
-($25 for Hackathon event only; Travel Awards Available.)
+($25 for Hackathon event only; [Travel Awards Available](https://event.asme.org/Events/media/library/resources/idetc-cie/IDETC2020-TravelAwardApplicationProcess.pdf).)
  
 Meeting Location: Room Name, Hilton, St. Louis, MO
 
