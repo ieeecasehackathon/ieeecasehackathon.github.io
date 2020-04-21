@@ -111,7 +111,7 @@ The goal of this hackathon subtopic is to promote the use of data science in pow
 * AM in-process data registration – how to align the multi-modal in-process monitoring data in time and space to allow for fusion and correlation (Ref: Argyriou 2015).
 * What kind of features to be extracted from the multi-level, multi scale AM in-process monitoring data, e.g., build command, chamber monitoring trended data, co-axial images and layerwise images etc. 
 * What kind of relationship between build commands and the in-process measurements such as coaxial melt pool characteristics/layerwise surface images. (Ref: Yang 2019a, 2019b)
-* How to fusion the data from the multi-modal in-process measurements (Ref: A Review of Data Fusion Techniques, The Scientific World Journal Volume 2013, Article ID 704504)
+* How to fusion the data from the multi-modal in-process measurements ([Castanedo 2013](#RefsProblem2))
 * How to develop real-time control or layerwise control strategy from the data for the PBF AM processes? (Ref: Mahesh Mani 2015, Measurement Science Needs for Real-time Control of Additive Manufacturing PowderBed Fusion Processes)
 
 #### Datasets
@@ -128,7 +128,7 @@ Data sets and data formats used for the study include:
 5. Melt-pool images for every part, every layer at 2KHz (bmp/jpg/avi/PNG)
 6. Layerwise images, 2 per layer, before and after exposure settings (bmp/PNG)
 
-#### References
+#### <a name="RefsProblem2"></a> References
 
 1. Vasileios Argyriou, Jesús Martínez Del Rincón, Barbara Villarini, Alexis Roche, “Image, Video & 3d Data Registration”, John Wiley & Sons, 2015.
 2. Guyon, I., Gunn, S., Nikravesh, M., Zadeh, L.A. (Eds.), Feature Extraction-Foundations and Applications,  Springer, 2006.
