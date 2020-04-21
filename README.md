@@ -77,7 +77,7 @@ The ASME-CIE Hackathon attempts to provide an open mechanism for researchers to 
 * Use of valuable extracted content to improve predictive models.
 * Removal or correction of negative content associated with errors, bias, or privacy.
 
-Hackathon problems can be found in [this PDF](https://event.asme.org/Events/media/library/resources/idetc-cie/IDETC-Hackathon-Problems.pdf).
+Hackathon problems can be found [here/below](#HackathonProblem1) for Problem 1 and [here/below](#HackathonProblem2) for Problem 2, as well as in [this PDF](https://event.asme.org/Events/media/library/resources/idetc-cie/IDETC-Hackathon-Problems.pdf).
 
 #### Teamwork
 
@@ -97,7 +97,7 @@ Hackathon is a teamwork. You do not need to have all the skills – that’s wha
 * Each Hackathon team will continue their own meetings and hacking exercises during the two days between 4pm 08/15/20 and 4pm 08/16/20.
 * Each team needs to present their teamwork including the technical approach and the results.
 
-## Hackathon Problem 1: Machine Damage Accumulation Prediction using Heterogeneous Temporal Sensor Data
+## <a name="HackathonProblem1"></a> Hackathon Problem 1: Machine Damage Accumulation Prediction using Heterogeneous Temporal Sensor Data
 
 ##### Subject Matter Expert
 * *Christopher McComb, Assistant Professor, School of Engineering Design, Technology and Professional Programs, PennState*
@@ -125,7 +125,7 @@ This data and use case present several challenges. These include:
 3. Smith, A., Hielscher, S., Dickel, S., Soderberg, J., & van Oost, E. (2013). Grassroots digital fabrication and makerspaces: Reconfiguring, relocating and recalibrating innovation?. University of Sussex, SPRU Working Paper SWPS, 2.
 4. Yan, J., Meng, Y., Lu, L., & Li, L. (2017). Industrial big data in an industry 4.0 environment: Challenges, schemes, and applications for predictive maintenance. IEEE Access, 5, 23484-23491.
 
-## Hackathon Problem 2: Smart Manufacturing – In-Process Data Mining for Powder-Bed Fusion Additive Manufacturing
+## <a name="HackathonProblem2"></a> Hackathon Problem 2: Smart Manufacturing – In-Process Data Mining for Powder-Bed Fusion Additive Manufacturing
 
 ##### Subject Matter Expert
 * **Yan Lu, Senior Research Scientist, Professor, System Integration Division, NIST**
