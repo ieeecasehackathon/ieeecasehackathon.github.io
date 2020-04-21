@@ -64,7 +64,7 @@ Participants can find relevant information the [official ASME website](https://e
 
 This 2020 ASME-CIE Hackathon is co-located with the International Design Engineering Technical Conferences & Computers and Information in Engineering Conference. The Hackathon is sponsored by the ASME Technical Events and Content (TEC) Sector Council and the ASME Computers & Information in Engineering Division (CIE) with the goal to build multi-stakeholder (society-university-industry) relations and impact the quality and quantity of data-skilled mechanical engineers. The ASME-CIE 2020 Hackathon is the first Hackathon event held by ASME and is expected to become one of the signature events of the American Society of Mechanical Engineering (ASME).
 
-### Theme
+#### Theme
 
 Big Data is defined as “large volumes of high velocity, complex and variable data that require advanced techniques and technologies to enable the capture, storage, distribution, management, and analysis of the information.” However, it is reported that majority of the data collected (more than 80%) is unstructured data in the form of image, video, audio, undefined text and numbers. This is true in many mechanical engineering subfields where sensors are ubiquitous and digitization is pervasive, for example, when analyzing Amazon reviews to elicit customer preferences in support of engineering design, and using images of 3D printing in support of manufacturing prognosis. While the value of unstructured data is evident by the vigor and velocity with which new tools are being created in the private sector to extract this hidden value, in mechanical engineering, the question of how to leverage the power of unstructured data to benefit product design and development, manufacturing and complex systems engineering is still yet fully answer.
 
@@ -76,7 +76,7 @@ The ASME-CIE Hackathon attempts to provide an open mechanism for researchers to 
 
 Hackathon problems can be found in [this PDF](https://event.asme.org/Events/media/library/resources/idetc-cie/IDETC-Hackathon-Problems.pdf).
 
-### Teamwork
+#### Teamwork
 
 Hackathon is a teamwork. You do not need to have all the skills – that’s what TEAMWORK is for! Please join us if you have:
 
