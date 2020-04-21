@@ -1,10 +1,10 @@
 
 # ASME HACKATHON on Computers and Information in Engineering (ASME IDETC/CIE 2020)
 
-**2020 ASME-CIE Hackathon: Identifying, Extracting, Analyzing of Value from Large Unstructured Data Sets in Mechanical Engineering*
-*Hilton, St. Louis, MO, USA**
+<p align="center">**2020 ASME-CIE Hackathon: Identifying, Extracting, Analyzing of Value from Large Unstructured Data Sets in Mechanical Engineering*
+*Hilton, St. Louis, MO, USA**</p>
 
-**August 15-16, 2020**
+<p align="center">**August 15-16, 2020**</p>
 
 <p align="center">In conjunction with ASME IDETC/CIE 2020</p>
 
