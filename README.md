@@ -1,7 +1,36 @@
 
 # ASME HACKATHON on Computers and Information in Engineering (ASME IDETC/CIE 2020)
 
+*2020 ASME-CIE Hackathon: Identifying, Extracting, Analyzing of Value from Large Unstructured Data Sets in Mechanical Engineering*
+*Hilton, St. Louis, MO, USA*
+*August 15-16, 2020*
+
+In conjunction with ASME IDETC/CIE 2020
+
+Sponsored by
+
+ASME Computers & Information in Engineering Division (CIE) &
+
+ASME Technical Events and Content (TEC) Sector Council
+
+ASME Manufacturing Engineering Division (MED) Centennial Celebration Endorsed Event
+
+[Click to Register for the Hackathon](https://event.asme.org/IDETC-CIE/Program/Hackathon)
+
+($25 for Hackathon event only; Travel Awards Available.)
+ 
+Meeting Location: Room Name, Hilton, St. Louis, MO
+
+
+
+
 Participants can find relevant information the [official ASME website](https://event.asme.org/IDETC-CIE/Program/Hackathon) (https://event.asme.org/IDETC-CIE/Program/Hackathon) and [GitHub website](https://asmehackathon2020.github.io/) for this repository. 
+
+
+
+
+
+
 
 ## Awards
 
@@ -79,7 +108,7 @@ The Bernard M. Gordon Learning Factory is a hands-on facility for engineering st
 The objective of this problem is to forecast future usage patterns for five commonly used machines in the learning factory with a time resolution of 10 minutes. Machine usage, here, is a binary variable where a true value indicates that a machine will be used at some point during a future 10 minute interval, and a false value indicates that the machine will not be used during that interval. Specifically, teams should train algorithms that are capable of predicting usage for up to 2 hours in the future: 12 binary values per machine, each representing whether or not the machine will be used in successive 10-minute intervals.
 
 #### Challenges
-Challenges
+
 This data and use case present several challenges. These include:
 * Is it feasible to construct a data-driven digital twin for forecasting? ([Kunath et al., 2018](#RefsProblem1)) 
 * What is the best approach to identifying appropriate signals in this data with which to make predictions? ([Long et al., 2019](#RefsProblem1))
