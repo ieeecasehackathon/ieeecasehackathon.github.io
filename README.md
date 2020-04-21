@@ -27,9 +27,9 @@ Participants can find relevant information the [official ASME website](https://e
 ## Important dates
 
 * ***May 21st, 2020***: Deadline for hackathon sign-up
-* ***August 15th, 3 pm 2020****: Hackathon Kick-off
-* ***August 16th, 4 pm 2020****: Due for Hackathon deliverables
-* ***August 16th, 8 pm 2020****: Awarding ceremony
+* ***August 15th, 3 pm 2020***: Hackathon Kick-off
+* ***August 16th, 4 pm 2020***: Due for Hackathon deliverables
+* ***August 16th, 8 pm 2020***: Awarding ceremony
 
 # Introduction
 
