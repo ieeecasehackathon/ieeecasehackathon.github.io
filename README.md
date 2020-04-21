@@ -3,14 +3,14 @@
 
 Participants can find relevant information the [official ASME website](https://event.asme.org/IDETC-CIE/Program/Hackathon) (https://event.asme.org/IDETC-CIE/Program/Hackathon) and [GitHub website](https://asmehackathon2020.github.io/) for this repository. 
 
-# Awards
+## Awards
 
 * First Place: $2000
 * Second Place: $1000
 * Third Place: $500
 
 
-# Organizers/Mentors
+## Organizers/Mentors
 
 1. Dr. Christopher McComb (Pennsylvania State University) -- Assistant Professor.
 
@@ -24,12 +24,12 @@ Participants can find relevant information the [official ASME website](https://e
 
 6. Dr. Anh Tran (Sandia National Laboratories) -- Postdoctoral Appointee
 
-# Important dates
+## Important dates
 
-* May 21st, 2020: Deadline for hackathon sign-up
-* August 15th, 3 pm 2020: Hackathon Kick-off
-* August 16th, 4 pm 2020: Due for Hackathon deliverables
-* August 16th, 8 pm 2020: Awarding ceremony
+* ***May 21st, 2020***: Deadline for hackathon sign-up
+* ***August 15th, 3 pm 2020****: Hackathon Kick-off
+* ***August 16th, 4 pm 2020****: Due for Hackathon deliverables
+* ***August 16th, 8 pm 2020****: Awarding ceremony
 
 # Introduction
 
