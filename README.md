@@ -129,6 +129,8 @@ Participants can also find pdfs of references [here](https://github.com/ASMEHack
 
 ## <a name="HackathonProblem2"></a> Hackathon Problem 2: Smart Manufacturing – In-Process Data Mining for Powder-Bed Fusion Additive Manufacturing
 
+Official link [https://ammd.nist.gov/](https://ammd.nist.gov/).
+
 ##### Subject Matter Expert
 * **Yan Lu, Senior Research Scientist, Professor, System Integration Division, NIST**
 * **Dehao Liu, School of Mechanical Engineering, Graduate Research Assistant, George Institute of Technology**
