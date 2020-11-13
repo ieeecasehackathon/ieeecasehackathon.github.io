@@ -526,29 +526,14 @@
 							  <a href="https://asmehackathon2020.github.io/dataset-2/Hackathon_3dBuild.zip" target="_blank"><b>Download the sample dataset here</b></a><br/>
 							  <a href="https://asmehackathon2020.github.io/references/References.zip" target="_blank"><b>Download the references here</b></a><br/>
 							  
-								<b>Dataset description:</b> An experimental L-PBF build was conducted on the Additive Manufacturing Metrology Testbed
-								(AMMT) at the National Institute of Standards and Technology (NIST). The AMMT is a fully customized metrology instrument that enables flexible control and measurement of the L-PBF process. Two cameras were installed for process monitoring, including a high-resolution camera that captures the layerwise images of the entire part, and a high-speed camera used to capture melt pool images. The Galvo mirror system and the beam splitter allow the high-speed camera to focus on the current laser melting spot. Emitted light from the melt pool, through an 850 nm
-								bandpass filter (40 nm bandwidth), is imaged on the camera sensor. On AMMT both Galvo and laser command are updated on field-programmable gate array (FPGA) at 100 kHz. The digital commands are developed to specify the motion of the Galvo scanner of the L-PBF system. It is transformed into a time series of scanner positions and laser power as control commands.
+								<b>Dataset description:</b>An experimental L-PBF build was conducted on the Additive Manufacturing Metrology Testbed (AMMT) at National Institute of Standards and Technology (NIST). The AMMT is a fully customized metrology instrument that enables flexible control and measurement of the L-PBF process. A high-speed melt pool monitoring camera was used to capture melt pool images. The galvo mirror system and the beam splitter allow the high-speed camera to observe the laser melting spot at every location the laser scans and melts material. Emitted light from the melt pool is imaged through a 850 nm (40 nm bandwidth) bandpass filter on to the camera sensor. On the AMMT, both the galvo and laser command are updated by field programmable gate array (FPGA) at 100 KHz. The digital commands are developed to specify the motion of the galvo scanner of the L-PBF system. It is transformed into a time series of scanner positions and laser power as control commands.
 								<!-- <b>Dataset description:</b> TBA. -->
                             </font>
 							</p>
 							<p style="text-align: justify;">
                             <font color="black">
-                                Inconel 625 powder and build plate were used. The substrate has a dimension of 102 mm x 102
-								mm x 13 mm. Twelve rectangular parts (with chamfered corners) of dimensions 10 mm x 10 mm
-								x 5 mm were laid on the substrate, with a minimum spacing of 10 mm between parts. Each part
-								was built with a different scan strategy.
-                            </font>
-							</p>
-							<p style="text-align: justify;">
-                            <font color="black">
-                                Data sets and data formats used for the study include:<br>
-								1) Part Design model (STL file)<br>
-								2) Part layout (drawing in pdf/part location in XML)<br>
-								3) Process settings; camera settings; and camera calibration models (PNG, jpg, XML)<br>
-								4) Data sets for build command at 100KHz for every part every layer (Xls)<br>
-								5) Melt-pool images for every part, every layer at 2KHz (BMP/JPG/AVI/PNG)<br>
-								6) Layerwise images, 2 per layer, before and after exposure settings (BMP/PNG)
+                                The dataset used in this problem is “20190711-HY-RHF” pertaining to an AM experiment performed on the AMMT by Ho Yeung on July 11, 2019. The powder is nickel superalloy 625(IN625). The experiment uses continuous-varying laser power to scan multiple rectangle single layer parts on a bare build plate (i.e. no metal powder). Each part is a 3 mm x 2 mm rectangle with same scan geometry, but different laser power transient profiles that range from 145 W to
+								195 W. The 120 pixel × 120 pixel (at 8 μm/pixel) in-situ melt-pool images were captured at 20000 frames per second.
                             </font>
 							</p>
                         </div>
