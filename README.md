@@ -160,7 +160,7 @@ Participants can also find pdfs of references [here](https://github.com/ASMEHack
 
 
 
-## <a name="HackathonProblem2"></a> Automated Testing in Production Planning in Test based Engineering
+## <a name="HackathonProblem2"></a> Hackathon Problem 2: Automated Testing in Production Planning in Test based Engineering
 
 
 
@@ -235,7 +235,7 @@ Output: test sequence order, Machine #, resources used, wait time, If resources 
 * Christopher McComb, Associate Professor, Department of Mechanical Engineering, Carnegie Melon University
 
 
-## <a name="HackathonProblem3"></a> Melt Pool Monitoring Data Registration for Powder Bed Fusion Additive Manufacturing
+## <a name="HackathonProblem3"></a> Hackathon Problem 3: Melt Pool Monitoring Data Registration for Powder Bed Fusion Additive Manufacturing
 
 #### Problem Statement
 
