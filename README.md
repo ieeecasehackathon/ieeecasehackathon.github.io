@@ -23,7 +23,7 @@
 <p align="center"><b>Dr. Yan Lu, National Institute of Standards and Technology</b></p>
 
 
-<p align="center">[Click to Register for the Hackathon](https://event.asme.org/IDETC-CIE/Program/Hackathon)</p>
+<p align="center"><a href="https://event.asme.org/IDETC-CIE/Program/Hackathon">Click to Register for the Hackathon</a></p>
 
 <!-- ($25 for Hackathon event only; [Travel Awards Available](https://event.asme.org/Events/media/library/resources/idetc-cie/IDETC2021-TravelAwardApplicationProcess.pdf).) -->
  
