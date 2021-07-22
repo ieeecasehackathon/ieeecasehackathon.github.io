@@ -32,32 +32,13 @@
 
 
 
-Participants can find relevant information the [official ASME website](https://event.asme.org/IDETC-CIE/Program/Hackathon) (https://event.asme.org/IDETC-CIE/Program/Hackathon) and [GitHub website](https://asmehackathon2021.github.io/) for this repository. 
-
-
-
-
-
+Participants can find relevant information the [official ASME website](https://event.asme.org/IDETC-CIE/Program/Hackathon) (https://event.asme.org/IDETC-CIE/Program/Hackathon) and [GitHub website](https://asmehackathon.github.io/) for this repository. 
 
 
 ## Awards
 
 Over $7,500 that the winners from three topic areas will share.
 
-
-## Organizers/Mentors
-
-1. Dr. Christopher McComb (Pennsylvania State University) -- Assistant Professor.
-
-2. Dr. Zhenghui Sha (University of Arkansas) -- Assistant Professor
-
-3. Dr. Faez Ahmed (MIT) -- Assistant Professor
-
-4. Dr. Yan Lu (NIST) -- Senior Research Scientist
-
-5. Dehao Liu (Gatech) -- Ph.D.
-
-6. Dr. Anh Tran (Sandia National Laboratories) -- Postdoctoral Appointee
 
 ## Important dates
 
@@ -68,7 +49,7 @@ Over $7,500 that the winners from three topic areas will share.
 
 ## Notes
 
-This `README.md` file is an excerpt for your convenience from the official [IDETC 2021 Hackathon Problem Statement](https://event.asme.org/Events/media/library/resources/idetc-cie/IDETC-2021-Hackathon-Problem-Statement.pdf). Please see this `.pdf` file for the sake of completeness.
+This `README.md` file is an excerpt for your convenience from the official [IDETC 2021 Hackathon Problem Statement](https://asmehackathon.github.io/download/Hackathon%20Problem%20Statement_IDETC_2021_Final.pdf). Please see this `.pdf` file for the sake of completeness.
 
 # Introduction
 
@@ -105,13 +86,6 @@ Hackathon is a teamwork. You do not need to have all the skills – that’s wha
 * Each team needs to present their teamwork including the technical approach and the results.
 
 
-
-
-
-
-
-
-
 ## <a name="HackathonProblem1"></a> Hackathon Problem 1: Digital Manufacturing – Obfuscating the design with security features
 
 
@@ -133,14 +107,12 @@ The STL file shows a 3D model of a 6-sided dice and each side of the dice will c
 
 Participants will be required to submit their solution based on the labeled dice shown in Figure 1. **For reference, the face of the dice numbered “6” is on the side labeled “C”**. In your submission, provide a table with your answers for the corresponding letters for each side, based upon the layout in the figure. 
 
-See more in [the official problem statement](https://event.asme.org/Events/media/library/resources/idetc-cie/IDETC-2021-Hackathon-Problem-Statement.pdf).
+See more in [the official problem statement](https://asmehackathon.github.io/download/Hackathon%20Problem%20Statement_IDETC_2021_Final.pdf).
 
 #### <a name="RefsProblem1"></a> References
 
-Participants can also find pdfs of references [here](https://github.com/ASMEHackathon2021/asmehackathon2021.github.io/tree/master/references/problem-1).
-
 1. Mahesh, P., et al., A Survey of Cybersecurity of Digital Manufacturing. Proceedings of the IEEE, 2021. 109(4): p. 495-516.
-2.	Linares, M., et al. HACK3D: Crowdsourcing the Assessment of Cybersecurity in Digital Manufacturing. 2021. arXiv:2005.04368.
+2. Linares, M., et al. HACK3D: Crowdsourcing the Assessment of Cybersecurity in Digital Manufacturing. 2021. arXiv:2005.04368.
 3. Practice problems and previous challenges are available at: https://www.csaw.io/hack3d
 
 #### Subject Matter Experts and Mentors
@@ -150,20 +122,7 @@ Participants can also find pdfs of references [here](https://github.com/ASMEHack
 * Hammond Pearce, Postdoctoral Associate, Department of Mechanical and Aerospace Engineering, New York University 
 * Zhenghui Sha, Assistant Professor, J. Mike Walker Department of Mechanical Engineering, The University of Texas at Austin
 
-
-
-
-
-
-
-
-
-
-
 ## <a name="HackathonProblem2"></a> Hackathon Problem 2: Automated Testing in Production Planning in Test based Engineering
-
-
-
 
 #### Problem Statement
 
@@ -228,6 +187,8 @@ Tool input: test sequence
 
 Output: test sequence order, Machine #, resources used, wait time, If resources are exhausted or no machine available, print a message accordingly.
 
+See more in [the official problem statement](https://asmehackathon.github.io/download/Hackathon%20Problem%20Statement_IDETC_2021_Final.pdf).
+
 #### Subject Matter Experts and Mentors
 
 * Anant Kumar Mishra, Research and Technology Manager, Future of Automation at Corporate Technology, Siemens Corporation
@@ -266,7 +227,7 @@ Datasets and data formats used for this subtopic include
 3. Scan path description (.docx)
 4. Melt-pool images for one part one layer at 10KHz (BMP/JPG/AVI/PNG) 
 
-See more in [the official problem statement](https://event.asme.org/Events/media/library/resources/idetc-cie/IDETC-2021-Hackathon-Problem-Statement.pdf).
+See more in [the official problem statement](https://asmehackathon.github.io/download/Hackathon%20Problem%20Statement_IDETC_2021_Final.pdf).
 
 #### What to submit
 * A .csv file for the predicted position of each MPM frame.
@@ -283,6 +244,6 @@ Reference
 ## Hackathon Tutorial Team Members
 
 1. Dr. Binyang Song, Postdoctoral Researcher, School of Engineering Design, Technology and Professional Programs, The Pennsylvania State University
-2. Dr. Dehao Liu, School of Mechanical Engineering, George Institute of Technology
+2. Dr. Dehao Liu, Incoming Postdoctoral Researcher, School of Materials Science & Engineering, Institute of Data Science, Texas A&M University
 3. Dr. Anh Tran, Senior Member of Technical Staff, Sandia National Laboratories
 
