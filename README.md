@@ -1,5 +1,5 @@
 
-# ASME HACKATHON on Computers and Information in Engineering (ASME IDETC/CIE 2020)
+# ASME HACKATHON on Computers and Information in Engineering (ASME IDETC/CIE 2021)
 
 <p align="center"><b>2021 ASME-CIE Hackathon: From Cybersecurity to Smart Manufacturing </b></p>
 <p align="center"><b>Experiencing Data-Driven Power in Mechanical Engineering</b></p>
@@ -23,16 +23,16 @@
 <p align="center"><b>Dr. Yan Lu, National Institute of Standards and Technology</b></p>
 
 
-[Click to Register for the Hackathon](https://event.asme.org/IDETC-CIE/Program/Hackathon)
+<p align="center">[Click to Register for the Hackathon](https://event.asme.org/IDETC-CIE/Program/Hackathon)</p>
 
-($25 for Hackathon event only; [Travel Awards Available](https://event.asme.org/Events/media/library/resources/idetc-cie/IDETC2020-TravelAwardApplicationProcess.pdf).)
+<!-- ($25 for Hackathon event only; [Travel Awards Available](https://event.asme.org/Events/media/library/resources/idetc-cie/IDETC2021-TravelAwardApplicationProcess.pdf).) -->
  
 <p align="center">Meeting Location: Zoom Links TBA</p>
 
 
 
 
-Participants can find relevant information the [official ASME website](https://event.asme.org/IDETC-CIE/Program/Hackathon) (https://event.asme.org/IDETC-CIE/Program/Hackathon) and [GitHub website](https://asmehackathon2020.github.io/) for this repository. 
+Participants can find relevant information the [official ASME website](https://event.asme.org/IDETC-CIE/Program/Hackathon) (https://event.asme.org/IDETC-CIE/Program/Hackathon) and [GitHub website](https://asmehackathon2021.github.io/) for this repository. 
 
 
 
@@ -61,14 +61,18 @@ Over $7,500 that the winners from three topic areas will share.
 
 ## Important dates
 
-* ***July 21st, 2020***: Deadline for hackathon sign-up
-* ***August 15th, 3 pm 2020***: Hackathon Kick-off
-* ***August 16th, 4 pm 2020***: Due for Hackathon deliverables
-* ***August 16th, 8 pm 2020***: Awarding ceremony
+* ***July 30, 2021***: Deadline for hackathon sign-up
+* ***August 14, 2021***: Hackathon Kick-off
+* ***August 15, afternoon 2021***: Due for Hackathon deliverables
+* ***August 15, evening 2021***: Awarding ceremony
+
+## Notes
+
+This ``README.md`` file is an excerpt for your convenience from the official [IDETC 2021 Hackathon Problem Statement](https://event.asme.org/Events/media/library/resources/idetc-cie/IDETC-2021-Hackathon-Problem-Statement.pdf). Please see this ``.pdf`` file for the sake of completeness.
 
 # Introduction
 
-This 2020 ASME-CIE Hackathon is co-located with the International Design Engineering Technical Conferences & Computers and Information in Engineering Conference. The Hackathon is sponsored by the ASME Technical Events and Content (TEC) Sector Council and the ASME Computers & Information in Engineering Division (CIE) with the goal to build multi-stakeholder (society-university-industry) relations and impact the quality and quantity of data-skilled mechanical engineers. The ASME-CIE 2020 Hackathon is the first Hackathon event held by ASME and is expected to become one of the signature events of the American Society of Mechanical Engineering (ASME).
+This 2021 ASME-CIE Hackathon is co-located with the International Design Engineering Technical Conferences & Computers and Information in Engineering Conference. The Hackathon is sponsored by the ASME Technical Events and Content (TEC) Sector Council and the ASME Computers & Information in Engineering Division (CIE) with the goal to build multi-stakeholder (society-university-industry) relations and impact the quality and quantity of data-skilled mechanical engineers. The ASME-CIE 2021 Hackathon is the second Hackathon event held by ASME and is expected to become one of the signature events of the American Society of Mechanical Engineering (ASME).
 
 <!-- #### Theme
 
@@ -100,6 +104,14 @@ Hackathon is a teamwork. You do not need to have all the skills – that’s wha
 * Each Hackathon team will continue their own meetings and hacking exercises during the two days.
 * Each team needs to present their teamwork including the technical approach and the results.
 
+
+
+
+
+
+
+
+
 ## <a name="HackathonProblem1"></a> Hackathon Problem 1: Digital Manufacturing – Obfuscating the design with security features
 
 
@@ -111,63 +123,107 @@ The objective of this hackathon problem is to assess the robustness of security 
 
 #### Challenges
 
-* How can security strategies be developed and incorporated into a DM cyber-physical system? ([Kunath et al., 2018](#RefsProblem1)) 
-* What is the optimal approach to test the effectiveness of developing security strategies and to account for every classification of attacks in the DM supply chain? ([Kunath et al., 2018](#RefsProblem1)) 
+* How can security strategies be developed and incorporated into a DM cyber-physical system? ([Mahesh et al., 2021](#RefsProblem1)) 
+* What is the optimal approach to test the effectiveness of developing security strategies and to account for every classification of attacks in the DM supply chain? ([Linares et al., 2021](#RefsProblem1)) 
 * How can the cybersecurity threats be minimized in digital manufacturing?
 * Is current 3D printing technology safe from threats?
 
+#### Datasets
+The STL file shows a 3D model of a 6-sided dice and each side of the dice will contain 9 spherical indentations on the surface. Each side of the dice should represent a numbered face of the dice from 1 to 6 and no number is repeated on any of the sides. Clues will be hidden in the file for participants to reveal and determine which number corresponds to which exact face of the dice. The hints will reveal which of the 9 spherical dots are extraneous and the true numbered side of the dice can be determined. Teams will receive points based on how many puzzles they can decode correctly. 
+
+Participants will be required to submit their solution based on the labeled dice shown in Figure 1. **For reference, the face of the dice numbered “6” is on the side labeled “C”**. In your submission, provide a table with your answers for the corresponding letters for each side, based upon the layout in the figure. 
+
+See more in [the official problem statement](https://event.asme.org/Events/media/library/resources/idetc-cie/IDETC-2021-Hackathon-Problem-Statement.pdf).
+
 #### <a name="RefsProblem1"></a> References
 
-Participants can also find pdfs of references [here](https://github.com/ASMEHackathon2020/asmehackathon2020.github.io/tree/master/references/problem-1).
+Participants can also find pdfs of references [here](https://github.com/ASMEHackathon2021/asmehackathon2021.github.io/tree/master/references/problem-1).
 
 1. Mahesh, P., et al., A Survey of Cybersecurity of Digital Manufacturing. Proceedings of the IEEE, 2021. 109(4): p. 495-516.
-2.	Linares, M., et al. HACK3D: Crowdsourcing the Assessment of Cybersecurity in Digital Manufacturing. 2020. arXiv:2005.04368.
+2.	Linares, M., et al. HACK3D: Crowdsourcing the Assessment of Cybersecurity in Digital Manufacturing. 2021. arXiv:2005.04368.
 3. Practice problems and previous challenges are available at: https://www.csaw.io/hack3d
 
-## <a name="HackathonProblem2"></a> Hackathon Problem 2: Smart Manufacturing – In-Process Data Mining for Powder-Bed Fusion Additive Manufacturing
+#### Subject Matter Experts and Mentors
 
-Official link [https://ammd.nist.gov/](https://ammd.nist.gov/).
+* Nikil Gupta, Professor, Department of Mechanical and Aerospace Engineering, New York University
+* Gary Mac, Ph.D. Candidate in Mechanical Engineering, Department of Mechanical and Aerospace Engineering, New York University
+* Hammond Pearce, Postdoctoral Associate, Department of Mechanical and Aerospace Engineering, New York University 
+* Zhenghui Sha, Assistant Professor, J. Mike Walker Department of Mechanical Engineering, The University of Texas at Austin
 
-##### Subject Matter Expert
-* **Yan Lu, Senior Research Scientist, Professor, System Integration Division, NIST**
-* **Dehao Liu, School of Mechanical Engineering, Graduate Research Assistant, George Institute of Technology**
-* **Anh Tran, Postdoctoral Appointee, Sandia National Laboratories**
+
+
+
+
+
+
+
+
+
+
+## <a name="HackathonProblem2"></a> Automated Testing in Production Planning in Test based Engineering
+
+
+
 
 #### Problem Statement
 
-Additive manufacturing (AM) processes build parts layer-by-layer directly from 3D models. AM enables the fabrication of complex heterogeneous parts, which makes it an attractive alternative for high-value, low-volume production. However, the turnkey deployment of the technology hits consistent barriers including low part repeatability and lack of effective qualification tools. Fundamental issues exist with the understanding and control of the dynamic and stochastic nature of AM processes. In-situ monitoring for additive manufacturing is considered as the main enablers to understand AM processes, set optimal material and machine specific process parameters, and close the control loops in real-time to limit the stochastic variability introduced by the dynamic nature of the processes. For manufacturers to build quality AM parts, in-situ data has the potential to be used for quality assurance and certification, which will dramatically reduce the need of lengthy and high-cost post inspections. 
+In the age of digitalization, it is critical to test, validate, and optimize real-world designs within the limitations of shorter testing cycles, conflicting performance requirements, growing product complexity, and reduced costs. The employment of data-based production resource management is geared toward reducing the total time required for flexible sequence of testing processes. Automated testing of engineering parts based on resource availability is a crucial part of production planning process. To ensure efficient testing solutions optimizing the speed of their testing cycles for so many possible feature combinations is complex and time-consuming without a powerful algorithmic approach. 
 
-The goal of this hackathon subtopic is to promote the use of data science in powder-bed fusion additive manufacturing to accelerate the understanding of powder-bed fusion AM process, to improve PBF process monitoring and control as well as to explore in-process data-based product qualification. This will be achieved by developing sets of data analytics tools, predictive models, and process control and optimization algorithms for PBF processes. This tool will be an early step in allowing industry to move away from 100% testing and towards born-qualified parts.
+The Objective of this hackathon is to build a robust algorithm to predict and reduce the amount of time required by the engineering parts for testing on the test machines. Candidates will work with a dataset which represents different combinations of part features to predict and optimize the time it takes to pass testing. The second part of the challenge is to build a scheduling tool based on the predicted test time for automated testing and resource planning.
 
-#### Challenges
 
-* AM in-process data registration – how to align the multi-modal in-process monitoring data in time and space to allow for fusion and correlation ([Argyriou et al. 2015](#RefsProblem2)).
-* What kind of features to be extracted from the multi-level, multi scale AM in-process monitoring data, e.g., build command, chamber monitoring trended data, co-axial images and layerwise images etc. 
-* What kind of relationship between build commands and the in-process measurements such as coaxial melt pool characteristics/layerwise surface images. ([Yang et al. 2019a](#RefsProblem2), [Yang et al. 2019b](#RefsProblem2))
-* How to fusion the data from the multi-modal in-process measurements ([Castanedo 2013](#RefsProblem2))
-* How to develop real-time control or layerwise control strategy from the data for the PBF AM processes? ([Mani 2015](#RefsProblem2))
+#### Task 1 Dataset
 
-#### Datasets
+This dataset contains a series of undisclosed variables, each representing a component in a (H)EV Powertrain machinery. Each single row represents a component like battery. Motor, torque, coupler, drive, wheel, Aerodynamic drag coefficient, Rolling resistance coefficient, etc. Variables can be categorical, continuous, or binary. For example, a categorical variable could be speed, torque range and control strategies on sound quality, (torsional) vibrations, or energy efficiency. Continuous variable could be cell temperature, humidity %, fuel consumption, simulation error or number of resources used. Binary variables could be availability of pneumatic nozzles, sensor application, safety appliance status, phase number, etc.
 
-An experimental L-PBF build was conducted on the Additive Manufacturing Metrology Testbed (AMMT) at National Institute of Standards and Technology (NIST). The AMMT is a fully customized metrology instrument that enables flexible control and measurement of the L-PBF process. Two cameras were installed for process monitoring, including a high-resolution camera that captures the layerwise images of the entire part, and a high-speed camera used to capture melt pool images. The Galvo mirror system and the beam splitter allow the high-speed camera to focus on current laser melting spot. Emitted light from the melt pool, through a 850 nm bandpass filter (40 nm bandwidth), is imaged on the camera sensor. On AMMT both Galvo and laser command are updated on field programmable gate array (FPGA) at 100 KHz. The digital commands are developed to specify the motion of the Galvo scanner of the L-PBF system. It is transformed into a time series of scanner positions and laser power as control commands.
+The ground truth is labeled `y` and represents the time (in seconds) that the rotating machinery took to pass testing for each variable.
 
-Inconel 625 powder and build plate were used. The substrate has a dimension of 102 mm x 102 mm x 13 mm. Twelve rectangular parts (with chamfered corners) of dimensions 10 mm x 10 mm x 5 mm were laid on the substrate, with a minimum spacing of 10 mm between parts. Each part was built with a different scan strategy.
+**File Description**
 
-Data sets and data formats used for the study include:
-1. Part Design model (.stl file)
-2. Part layout (drawing in pdf/part location in xml)
-3. Process settings; camera settings; and camera calibration models (PNG, jpg, xml)
-4. Data sets for build command at 100KHz for every part every layer (xls)
-5. Melt-pool images for every part, every layer at 2KHz (bmp/jpg/avi/PNG)
-6. Layerwise images, 2 per layer, before and after exposure settings (bmp/PNG)
+Variables with letters are categorical. Variables with 0/1 are binary values. And others are continuous variables.
 
-#### <a name="RefsProblem2"></a> References
+* ``train.csv` - the training set
+* `test.csv` - the test set, you must predict the `y` variable for the `ID`s in this file
 
-Participants can also find pdfs of references [here](https://github.com/ASMEHackathon2020/asmehackathon2020.github.io/tree/master/references/problem-2).
 
-1. Vasileios Argyriou, Jesús Martínez Del Rincón, Barbara Villarini, Alexis Roche, “Image, Video & 3d Data Registration”, John Wiley & Sons, 2015.
-2. Guyon, I., Gunn, S., Nikravesh, M., Zadeh, L.A. (Eds.), Feature Extraction-Foundations and Applications,  Springer, 2006.
-3. Yang, Z., Lu, Y., Yeung, H., and Krishnamurty, S., “From Scan Strategy to Melt Pool Prediction: A Neighboring-Effect Modeling Method”, CIE 2019.
-4. Yang, Z., Lu, Y., Yeung, H., and Krishnamurty, S., “Investigation of Deep Learning for Real-Time Melt Pool Classification in Additive Manufacturing.
-5. Federico Castanedo, “A Review of Data Fusion Techniques”, The Scientific World Journal Volume 2013.
-6. Mani, M., Lane, B. M., Donmez, A. M., Feng, S. C., Moylan, S. P., Fesperman, R. R., “Measurement Science Needs for Real-time Control of Additive Manufacturing PowderBed Fusion Processes”, NISTIR 8036, 2015. 
+#### Task 2 Dataset
+
+This dataset is a (H)EV Powertrain component assembly dataset. This dataset consists of 1 file: `matrix.csv`
+
+**File Description**
+
+`Matrix.csv` consists of test IDs (these test IDs can be found in test.csv from task 1), available material quantity and machine numbers on which test is performed. Each test ID is divided into categories (A1 – A6) which resemble a component in rotating machinery. For successful testing of the rotating machinery, test IDs from these categories should be tested in a specific sequence of component categories.
+
+The general sequence of Test IDs to start a test - `A1 -> A2 -> A3 -> A4 -> A6` OR `A1 -> A2 -> A3 -> A5 -> A6`. 
+
+Example test - `1004 -> 6450 -> 185 -> 1466 -> 2080`, total time taken by the test is the addition of predicted `y` (from `test.csv` in task 1) for respective test IDs.
+
+Machine selection - Machines numbers ranging from 1 to 12 form a matrix with test IDs. Y/N under machines signify whether machine is allocated for performing the test.
+
+If matrix(test ID , machine #) = “Y” then that specific test can be performed on the corresponding machine number. You must select suitable Machine which can be used to test the sequential test IDs.
+
+For the example test - `1004 -> 6450 -> 185 -> 1466 -> 2080` suitable machines for testing are 1, 5. Based on the machine availability user can select a machine for testing. 
+
+Each test id uses use a single resource for testing. After each test resources are exhausted by 1. 
+
+
+#### Submission File
+
+*Task 1*: Prediction of time required for testing: For each `ID` in the test set, you must predict the `y` variable. The file should contain a header and have the following format:
+
+```
+ID,y  
+1,150  
+2,150.23  
+3,155.78
+...
+```
+
+*Task 2*: Building a Scheduling tool: Design and build a scheduling tool for automating the test schedule and planning resources for (H)EV Powertrain planner. 
+
+Tool input: test sequence 
+    1) 1004  6450  185  1466  2080 
+    2) ...
+    3) ...
+
+Output: test sequence order, Machine #, resources used, wait time, If resources are exhausted or no machine available, print a message accordingly.
