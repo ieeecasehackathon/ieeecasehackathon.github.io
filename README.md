@@ -23,7 +23,7 @@
 <p align="center"><b>Dr. Yan Lu, National Institute of Standards and Technology</b></p>
 
 
-<p align="center"><a href="https://event.asme.org/IDETC-CIE/Program/Hackathon">Click to Register for the Hackathon</a></p>
+<p align="center"><a href="https://event.asme.org/IDETC-CIE/Program/Hackathon">Click here to Register for the Hackathon</a></p>
 
 <!-- ($25 for Hackathon event only; [Travel Awards Available](https://event.asme.org/Events/media/library/resources/idetc-cie/IDETC2021-TravelAwardApplicationProcess.pdf).) -->
  
@@ -68,7 +68,7 @@ Over $7,500 that the winners from three topic areas will share.
 
 ## Notes
 
-This ``README.md`` file is an excerpt for your convenience from the official [IDETC 2021 Hackathon Problem Statement](https://event.asme.org/Events/media/library/resources/idetc-cie/IDETC-2021-Hackathon-Problem-Statement.pdf). Please see this ``.pdf`` file for the sake of completeness.
+This `README.md` file is an excerpt for your convenience from the official [IDETC 2021 Hackathon Problem Statement](https://event.asme.org/Events/media/library/resources/idetc-cie/IDETC-2021-Hackathon-Problem-Statement.pdf). Please see this `.pdf` file for the sake of completeness.
 
 # Introduction
 
@@ -182,7 +182,7 @@ The ground truth is labeled `y` and represents the time (in seconds) that the ro
 
 Variables with letters are categorical. Variables with 0/1 are binary values. And others are continuous variables.
 
-* ``train.csv` - the training set
+* `train.csv` - the training set
 * `test.csv` - the test set, you must predict the `y` variable for the `ID`s in this file
 
 
@@ -211,19 +211,78 @@ Each test id uses use a single resource for testing. After each test resources a
 
 *Task 1*: Prediction of time required for testing: For each `ID` in the test set, you must predict the `y` variable. The file should contain a header and have the following format:
 
-```
+``
 ID,y  
 1,150  
 2,150.23  
 3,155.78
 ...
-```
+``
 
 *Task 2*: Building a Scheduling tool: Design and build a scheduling tool for automating the test schedule and planning resources for (H)EV Powertrain planner. 
 
 Tool input: test sequence 
-    1) 1004  6450  185  1466  2080 
+    1) 1004 -> 6450 -> 185 -> 1466 -> 2080 
     2) ...
     3) ...
 
 Output: test sequence order, Machine #, resources used, wait time, If resources are exhausted or no machine available, print a message accordingly.
+
+#### Subject Matter Experts and Mentors
+
+* Anant Kumar Mishra, Research and Technology Manager, Future of Automation at Corporate Technology, Siemens Corporation
+* Mayuri Deshpande, Research Scientist, Siemens Corporation
+* Christopher McComb, Associate Professor, Department of Mechanical Engineering, Carnegie Melon University
+
+
+## <a name="HackathonProblem3"></a> Melt Pool Monitoring Data Registration for Powder Bed Fusion Additive Manufacturing
+
+#### Problem Statement
+
+The powder bed fusion (PBF) process builds part layer-by-layer. The new layer is on either raw powder or previously solidified material. PBF-built part quality highly depends on process parameters such as laser power, scan speed, scan pattern, and other machine settings. There are also uncontrollable environmental factors or geometrical effects that may affect process stability. A common solution to this issue is to implement in-situ monitoring and real-time control. 
+
+Coaxial camera-based melt pool monitoring (MPM) systems can generate high-resolution images at a high sampling rate, which provides an attractive solution to monitor the PBF process.In order to use MPM information for process monitoring and part quality control, relationships between metal PBF process parameters, melt pool characteristics, and material structure and properties need to be discovered. Proper data registration is a prerequisite for correlating melt pool characteristics to local structure and mechanical properties. The objective of this hackathon subtopic is to reconstruct the scan path from coaxial MPM images. Furthermore, each image frame should be registered with an estimation of the laser beam position associated with this frame. Participants need to use the given information such as scan profile, part geometry, and other process parameters to predict where each MPM frame was taken. 
+
+#### Challenges
+
+* How to correlate the MPM characteristics with scan path and process parameters? Hint, what specific characteristics in the scan commands can cause changes in the melt pool?
+* How to extract useful features from MPM data to make the correlation?
+* What is the best approach to efficiently register the MPM frames?
+* How to remove the initial defects such as signal delay or missing data in the raw in-situ data?
+* What are the uncertainty sources of your registration method? How to quantify them?
+
+#### Datasets
+
+An experimental L-PBF build was conducted on the Additive Manufacturing Metrology Testbed (AMMT) at the National Institute of Standards and Technology (NIST). The AMMT is a fully customized metrology instrument that enables flexible control and measurement of the L-PBF process. Two cameras were installed for process monitoring, including a high-resolution camera that captures the layerwise images of the entire part and a high-speed camera used to capture melt pool images. The Galvo mirror system and the beam splitter allow the high-speed camera to focus on the current laser melting spot. Emitted light from the melt pool, through an 850 nm bandpass filter (40 nm bandwidth), is imaged on the camera sensor. On AMMT, both Galvo and laser command are updated on field-programmable gate array (FPGA) at 100 kHz. The digital commands are developed to specify the motion of the Galvo scanner of the L-PBF system. It is transformed into a time series of scanner positions and laser power as control commands. 
+
+Inconel 625 powder and build plate were used. A rectangular part (with chamfered corners) of dimensions 10 mm x 10 mm x 5 mm was laid on the substrate. 
+
+#### Dataset
+
+Datasets and data formats used for this subtopic include
+
+1. Part design model (STL file)
+2. Process settings; camera settings; and camera calibration models (PNG, jpg, XML) 
+3. Scan path description (.docx)
+4. Melt-pool images for one part one layer at 10KHz (BMP/JPG/AVI/PNG) 
+
+See more in [the official problem statement](https://event.asme.org/Events/media/library/resources/idetc-cie/IDETC-2021-Hackathon-Problem-Statement.pdf).
+
+#### What to submit
+* A .csv file for the predicted position of each MPM frame.
+* The slides of your final presentation
+
+#### References
+
+Reference
+1. Lane B, Mekhontsev S, Grantham S, Vlasea M, Whiting J, Yeung H, Fox J, Zarobila C, Neira J, McGlauflin M, Hanssen L. Design, developments, and results from the NIST additive manufacturing metrology testbed (AMMT). InSolid freeform fabrication symposium, Austin, TX 2016 August 10 (pp. 1145-1160).
+2. Lane, Brandon, and Ho Yeung. "Process Monitoring Dataset from the Additive Manufacturing Metrology Testbed (AMMT):" Three-Dimensional Scan Strategies"." Journal of Research of the National Institute of Standards and Technology 124 (2019): 1-14.
+3. Fox, Jason C., Brandon M. Lane, and Ho Yeung. "Measurement of process dynamics through coaxially aligned high speed near-infrared imaging in laser powder bed fusion additive manufacturing." In Thermosense: Thermal Infrared Applications XXXIX, vol. 10214, p. 1021407. International Society for Optics and Photonics, 2017.
+4. Yeung, Ho, and B. Lane. "A residual heat compensation based scan strategy for powder bed fusion additive manufacturing." Manufacturing Letters 25 (2020): 56-59.
+
+## Hackathon Tutorial Team Members
+
+1. Dr. Binyang Song, Postdoctoral Researcher, School of Engineering Design, Technology and Professional Programs, The Pennsylvania State University
+2. Dr. Dehao Liu, School of Mechanical Engineering, George Institute of Technology
+3. Dr. Anh Tran, Senior Member of Technical Staff, Sandia National Laboratories
+
