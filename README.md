@@ -1,28 +1,33 @@
 
 # ASME HACKATHON on Computers and Information in Engineering (ASME IDETC/CIE 2020)
 
-<p align="center"><b>2020 ASME-CIE Hackathon: Identifying, Extracting, Analyzing of Value </b></p>
-<p align="center"><b>from Large Unstructured Data Sets in Mechanical Engineering</b></p>
+<p align="center"><b>2021 ASME-CIE Hackathon: From Cybersecurity to Smart Manufacturing </b></p>
+<p align="center"><b>Experiencing Data-Driven Power in Mechanical Engineering</b></p>
 
-<p align="center"><b>Hilton, St. Louis, MO, USA</b></p>
+<p align="center"><b>Virtual Event.</b></p>
 
-<p align="center"><b>August 15-16, 2020</b></p>
+<p align="center"><b>August 14-15, 2021</b></p>
 
-<p align="center">In conjunction with <b>ASME IDETC/CIE 2020</b></p>
+<p align="center">In conjunction with <b>ASME IDETC/CIE 2021 Conferences</b></p>
 
 <p align="center">Sponsored by</p>
 
 <p align="center"><b>ASME Computers & Information in Engineering Division (CIE) &</b></p>
 
-<p align="center"><b>ASME Technical Events and Content (TEC) Sector Council</b></p>
+<p align="center">Hackathon Problem Proposers</p>
 
-<p align="center"><b>ASME Manufacturing Engineering Division (MED) Centennial Celebration Endorsed Event</b></p>
+<p align="center"><b>Prof. Nikhil Gupta, New York University</b></p>
+
+<p align="center"><b>Mr. Anant Kumar Mishra, Siemens Corporation</b></p>
+
+<p align="center"><b>Dr. Yan Lu, National Institute of Standards and Technology</b></p>
+
 
 [Click to Register for the Hackathon](https://event.asme.org/IDETC-CIE/Program/Hackathon)
 
 ($25 for Hackathon event only; [Travel Awards Available](https://event.asme.org/Events/media/library/resources/idetc-cie/IDETC2020-TravelAwardApplicationProcess.pdf).)
  
-<p align="center">Meeting Location: Room Name, Hilton, St. Louis, MO</p>
+<p align="center">Meeting Location: Zoom Links TBA</p>
 
 
 
@@ -37,9 +42,7 @@ Participants can find relevant information the [official ASME website](https://e
 
 ## Awards
 
-* First Place: $2000
-* Second Place: $1000
-* Third Place: $500
+Over $7,500 that the winners from three topic areas will share.
 
 
 ## Organizers/Mentors
@@ -52,13 +55,13 @@ Participants can find relevant information the [official ASME website](https://e
 
 4. Dr. Yan Lu (NIST) -- Senior Research Scientist
 
-5. Dehao Liu (Gatech) -- Ph.D. Candidate
+5. Dehao Liu (Gatech) -- Ph.D.
 
 6. Dr. Anh Tran (Sandia National Laboratories) -- Postdoctoral Appointee
 
 ## Important dates
 
-* ***May 21st, 2020***: Deadline for hackathon sign-up
+* ***July 21st, 2020***: Deadline for hackathon sign-up
 * ***August 15th, 3 pm 2020***: Hackathon Kick-off
 * ***August 16th, 4 pm 2020***: Due for Hackathon deliverables
 * ***August 16th, 8 pm 2020***: Awarding ceremony
@@ -67,7 +70,7 @@ Participants can find relevant information the [official ASME website](https://e
 
 This 2020 ASME-CIE Hackathon is co-located with the International Design Engineering Technical Conferences & Computers and Information in Engineering Conference. The Hackathon is sponsored by the ASME Technical Events and Content (TEC) Sector Council and the ASME Computers & Information in Engineering Division (CIE) with the goal to build multi-stakeholder (society-university-industry) relations and impact the quality and quantity of data-skilled mechanical engineers. The ASME-CIE 2020 Hackathon is the first Hackathon event held by ASME and is expected to become one of the signature events of the American Society of Mechanical Engineering (ASME).
 
-#### Theme
+<!-- #### Theme
 
 Big Data is defined as “large volumes of high velocity, complex and variable data that require advanced techniques and technologies to enable the capture, storage, distribution, management, and analysis of the information.” However, it is reported that majority of the data collected (more than 80%) is unstructured data in the form of image, video, audio, undefined text and numbers. This is true in many mechanical engineering subfields where sensors are ubiquitous and digitization is pervasive, for example, when analyzing Amazon reviews to elicit customer preferences in support of engineering design, and using images of 3D printing in support of manufacturing prognosis. While the value of unstructured data is evident by the vigor and velocity with which new tools are being created in the private sector to extract this hidden value, in mechanical engineering, the question of how to leverage the power of unstructured data to benefit product design and development, manufacturing and complex systems engineering is still yet fully answer.
 
@@ -77,7 +80,7 @@ The ASME-CIE Hackathon attempts to provide an open mechanism for researchers to 
 * Use of valuable extracted content to improve predictive models.
 * Removal or correction of negative content associated with errors, bias, or privacy.
 
-Hackathon problems can be found [here/below](#HackathonProblem1) for Problem 1 and [here/below](#HackathonProblem2) for Problem 2, as well as in [this PDF](https://event.asme.org/Events/media/library/resources/idetc-cie/IDETC-Hackathon-Problems.pdf).
+Hackathon problems can be found [here/below](#HackathonProblem1) for Problem 1 and [here/below](#HackathonProblem2) for Problem 2, as well as in [this PDF](https://event.asme.org/Events/media/library/resources/idetc-cie/IDETC-Hackathon-Problems.pdf). -->
 
 #### Teamwork
 
@@ -93,39 +96,33 @@ Hackathon is a teamwork. You do not need to have all the skills – that’s wha
  
 #### Hackathon Team and Presentation
 
-* All participants must be registered via here. Register the event and attend the Hackathon physically. Each participant brings his/her own laptop with all the necessary computing tools. Everyone will be placed in a team up to three members. You may form your own team onsite. All implementation must be based on the original work.
-* Each Hackathon team will continue their own meetings and hacking exercises during the two days between 4pm 08/15/20 and 4pm 08/16/20.
+* All participants must be registered. Register the event and attend the Hackathon physically. Each participant brings his/her own laptop with all the necessary computing tools. Everyone will be placed in a team up to three members. You may form your own team onsite. All implementation must be based on the original work.
+* Each Hackathon team will continue their own meetings and hacking exercises during the two days.
 * Each team needs to present their teamwork including the technical approach and the results.
 
-## <a name="HackathonProblem1"></a> Hackathon Problem 1: Machine Damage Accumulation Prediction using Heterogeneous Temporal Sensor Data
+## <a name="HackathonProblem1"></a> Hackathon Problem 1: Digital Manufacturing – Obfuscating the design with security features
 
-##### Subject Matter Expert
-* *Christopher McComb, Assistant Professor, School of Engineering Design, Technology and Professional Programs, PennState*
-* *Zhenghui Sha, Assistant Professor, Department of Mechanical Engineering, University of Arkansas*
-* *Faez Ahmed, Postdoctoral Fellow, Department of Mechanical Engineering, Northwestern University*
 
 #### Problem Statement
 
-The Bernard M. Gordon Learning Factory is a hands-on facility for engineering students, which provides modern design, prototyping, and manufacturing facilities. Many of the machines in the Learning Factory are instrumented using a sensor suite that provides monitoring capabilities. The readings from a heterogeneous set of sensors is used to report metrics continuously for many different machines. 
+A digital manufacturing (DM) process chain requires the use of computers, network connectivity, and cloud systems. Industry 4.0 continues to evolve towards the digital transformation of manufacturing, leading to concerns of hacking for sabotage and intellectual property protection. The unique threats faced by DM are side-channel attacks, direct sabotage, reverse engineering, and counterfeit production.
 
-The objective of this problem is to forecast future usage patterns for five commonly used machines in the learning factory with a time resolution of 10 minutes. Machine usage, here, is a binary variable where a true value indicates that a machine will be used at some point during a future 10 minute interval, and a false value indicates that the machine will not be used during that interval. Specifically, teams should train algorithms that are capable of predicting usage for up to 2 hours in the future: 12 binary values per machine, each representing whether or not the machine will be used in successive 10-minute intervals.
+The objective of this hackathon problem is to assess the robustness of security strategies to hide design information in DM and stimulate the critical thinking process. An STL file of a dice will be provided, and participants are expected to determine the correct number for each face on the 6-sided dice. Teams would be required to present their solution approaches for completing each benchmark to a panel of judges. 
 
 #### Challenges
 
-This data and use case present several challenges. These include:
-* Is it feasible to construct a data-driven digital twin for forecasting? ([Kunath et al., 2018](#RefsProblem1)) 
-* What is the best approach to identifying appropriate signals in this data with which to make predictions? ([Long et al., 2019](#RefsProblem1))
-* The data provided here represents only the technical side of the system, but is heavily impacted by the human use of the learning factory as well. ([Smith et al., 2013](#RefsProblem1)).
-* What is an appropriate threshold on measured sensor values to indicate active use of the machine? ([Yan et al., 2017](#RefsProblem1))
+* How can security strategies be developed and incorporated into a DM cyber-physical system? ([Kunath et al., 2018](#RefsProblem1)) 
+* What is the optimal approach to test the effectiveness of developing security strategies and to account for every classification of attacks in the DM supply chain? ([Kunath et al., 2018](#RefsProblem1)) 
+* How can the cybersecurity threats be minimized in digital manufacturing?
+* Is current 3D printing technology safe from threats?
 
 #### <a name="RefsProblem1"></a> References
 
 Participants can also find pdfs of references [here](https://github.com/ASMEHackathon2020/asmehackathon2020.github.io/tree/master/references/problem-1).
 
-1. Kunath, M., & Winkler, H. (2018). Integrating the Digital Twin of the manufacturing system into a decision support system for improving the order management process. Procedia CIRP, 72, 225-231.
-2. Long, Wen, Zhichen Lu, and Lingxiao Cui. "Deep learning-based feature engineering for stock price movement prediction." Knowledge-Based Systems 164 (2019): 163-173.
-3. Smith, A., Hielscher, S., Dickel, S., Soderberg, J., & van Oost, E. (2013). Grassroots digital fabrication and makerspaces: Reconfiguring, relocating and recalibrating innovation?. University of Sussex, SPRU Working Paper SWPS, 2.
-4. Yan, J., Meng, Y., Lu, L., & Li, L. (2017). Industrial big data in an industry 4.0 environment: Challenges, schemes, and applications for predictive maintenance. IEEE Access, 5, 23484-23491.
+1. Mahesh, P., et al., A Survey of Cybersecurity of Digital Manufacturing. Proceedings of the IEEE, 2021. 109(4): p. 495-516.
+2.	Linares, M., et al. HACK3D: Crowdsourcing the Assessment of Cybersecurity in Digital Manufacturing. 2020. arXiv:2005.04368.
+3. Practice problems and previous challenges are available at: https://www.csaw.io/hack3d
 
 ## <a name="HackathonProblem2"></a> Hackathon Problem 2: Smart Manufacturing – In-Process Data Mining for Powder-Bed Fusion Additive Manufacturing
 
