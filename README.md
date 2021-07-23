@@ -283,6 +283,7 @@ Reference
 ## Hackathon Tutorial Team Members
 
 1. Dr. Binyang Song, Postdoctoral Researcher, School of Engineering Design, Technology and Professional Programs, The Pennsylvania State University
-2. Dr. Dehao Liu, School of Mechanical Engineering, George Institute of Technology
-3. Dr. Anh Tran, Senior Member of Technical Staff, Sandia National Laboratories
+2. Laxmi Poudel, Graduate Research Assistant, University of Arkansas
+3. Dr. Dehao Liu, School of Mechanical Engineering, George Institute of Technology
+4. Dr. Anh Tran, Senior Member of Technical Staff, Sandia National Laboratories
 
